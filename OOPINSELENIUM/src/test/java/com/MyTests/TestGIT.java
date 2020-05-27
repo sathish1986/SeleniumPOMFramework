@@ -1,5 +1,9 @@
 package com.MyTests;
 
-public class TestGIT {
+import org.testng.annotations.Test;
 
+@Test
+public class TestGIT {
+	
+	//hi
 }
